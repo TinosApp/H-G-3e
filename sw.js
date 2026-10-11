@@ -1,10 +1,11 @@
 /* Service worker : fonctionnement hors ligne de l'application HG 3e.
    Pour publier une mise à jour, changer le numéro de version ci-dessous. */
-const VERSION = "hg3e-v1";
+const VERSION = "hg3e-v3";
 const FICHIERS = [
   "./",
   "index.html",
-  "manifest.json"
+  "manifest.json",
+  "config.js"
 ];
 
 self.addEventListener("install", (event) => {
