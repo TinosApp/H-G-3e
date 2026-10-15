@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Histoire-Géographie 3e">
+<rect width="180" height="180" rx="40" fill="#0d4a33"/>
+<circle cx="90" cy="90" r="65" fill="#16714e"/>
+<text x="90" y="98" text-anchor="middle" font-family="'DejaVu Serif',Georgia,serif" font-weight="700" font-size="58" fill="#fff">HG</text>
+<rect x="52" y="122" width="76" height="3.4" rx="1.7" fill="#E0A526"/>
+<text x="90" y="153" text-anchor="middle" font-family="'DejaVu Serif',Georgia,serif" font-weight="700" font-size="30" fill="#E0A526">3e</text>
+</svg>
